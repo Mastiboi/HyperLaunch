@@ -13,8 +13,8 @@ const Footer = () => {
           links: [
             { name: 'Home', href: '/' },
             { name: 'Create Token', href: '/createToken' },
-            { name: 'Liquidity Pool', href: '/createLiquidity' },
-            { name: 'Manage Liquidity', href: '/manageLiquidity' },
+            { name: 'Liquidity Pool', href: 'https://raydium.io/liquidity/create-pool/?tab=standard' },
+            { name: 'Manage Liquidity', href: 'https://raydium.io/portfolio/?position_tab=standardiquidity' },
           ]
         },
         company: {
